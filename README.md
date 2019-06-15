@@ -1,0 +1,1 @@
+# harfler arasında hiyerarşi olmaz
